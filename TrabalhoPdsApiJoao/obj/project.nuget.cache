@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "UyGlaNpgD6I4uxuTx26GtVu84q8uGTcTZVxVr4FCu9Zcv3MYj02Z6X2IW0Mp4WCK9tz5MWrU6Fp10j5T+gNh8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2022102020019\\source\\repos\\atividadeapi\\atividadeapi\\atividadeapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2022102020019\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\2022102020019\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\2022102020019\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\2022102020019\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\2022102020019\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\2022102020019\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\2022102020019\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\2022102020019\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\2022102020019\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512",
+    "C:\\Users\\2022102020019\\.nuget\\packages\\xceed.document.net\\3.0.24152.1219\\xceed.document.net.3.0.24152.1219.nupkg.sha512",
+    "C:\\Users\\2022102020019\\.nuget\\packages\\xceed.pdf\\3.0.24152.1219\\xceed.pdf.3.0.24152.1219.nupkg.sha512",
+    "C:\\Users\\2022102020019\\.nuget\\packages\\xceed.words.net\\3.0.24152.1219\\xceed.words.net.3.0.24152.1219.nupkg.sha512"
+  ],
+  "logs": []
+}
